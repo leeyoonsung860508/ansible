@@ -21,4 +21,4 @@
         enabled: true
     
     - name: creating index.html
-      get_url: url=https://www.naver.com dest=/var/www.html/index.html 
+      get_url: url=https://www.naver.com dest=/var/www/html/index.html 
